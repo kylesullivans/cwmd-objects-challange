@@ -10,7 +10,7 @@
 // 1. Create a new Boolean named isFridgeRuning set to either true or false and display the value in the console.
 
  
-// 2. Attach a property to isFridgeOn name caughtIt and set to either true or false. Display it in the console
+// 2. Attach a property to isFridgeRuning name caughtIt and set to either true or false. Display it in the console
 
  
 // 3. Create a new Number as an object and display it in the console.
